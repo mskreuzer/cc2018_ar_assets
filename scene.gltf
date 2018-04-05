@@ -1,0 +1,649 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4518,
+      "max": [
+        11.202630043029785,
+        9.9091596603393555,
+        10.382499694824219
+      ],
+      "min": [
+        -2.9026679992675781,
+        0.30843600630760193,
+        -9.5546951293945312
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 54216,
+      "componentType": 5126,
+      "count": 4518,
+      "max": [
+        0.99650585651397705,
+        0.99999898672103882,
+        0.99932146072387695
+      ],
+      "min": [
+        -0.99985378980636597,
+        -0.99983149766921997,
+        -0.99911975860595703
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4518,
+      "max": [
+        0.99766522645950317,
+        0.99955785274505615,
+        0.99995464086532593,
+        1
+      ],
+      "min": [
+        -0.9993818998336792,
+        -0.99944049119949341,
+        -0.99963605403900146,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4518,
+      "max": [
+        0.99072301387786865,
+        1.9985339641571045
+      ],
+      "min": [
+        3.0999999580672011e-05,
+        1
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 21435,
+      "max": [
+        4517
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 108432,
+      "componentType": 5126,
+      "count": 6151,
+      "max": [
+        11.202630043029785,
+        9.9091596603393555,
+        10.396389961242676
+      ],
+      "min": [
+        -2.319350004196167,
+        0.69283699989318848,
+        -9.5354042053222656
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 182244,
+      "componentType": 5126,
+      "count": 6151,
+      "max": [
+        0.9998125433921814,
+        0.99999886751174927,
+        0.99977421760559082
+      ],
+      "min": [
+        -0.99964159727096558,
+        -0.99983173608779907,
+        -0.99946677684783936
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 72288,
+      "componentType": 5126,
+      "count": 6151,
+      "max": [
+        0.99992477893829346,
+        0.9985501766204834,
+        0.99986827373504639,
+        1
+      ],
+      "min": [
+        -0.99924898147583008,
+        -0.99993646144866943,
+        -0.99997615814208984,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 36144,
+      "componentType": 5126,
+      "count": 6151,
+      "max": [
+        0.99658197164535522,
+        1.9985339641571045
+      ],
+      "min": [
+        3.0999999580672011e-05,
+        1
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 85740,
+      "componentType": 5125,
+      "count": 29748,
+      "max": [
+        6150
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 256056,
+      "componentType": 5126,
+      "count": 344,
+      "max": [
+        7.331334114074707,
+        9.5486698150634766,
+        9.871027946472168
+      ],
+      "min": [
+        -2.2336559295654297,
+        1.8317550420761108,
+        -8.7620172500610352
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 260184,
+      "componentType": 5126,
+      "count": 344,
+      "max": [
+        0.98953109979629517,
+        0.99970275163650513,
+        0.97907024621963501
+      ],
+      "min": [
+        -0.99459213018417358,
+        -0.99620997905731201,
+        -0.96504849195480347
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 170704,
+      "componentType": 5126,
+      "count": 344,
+      "max": [
+        0.98959821462631226,
+        0.78505510091781616,
+        0.99858242273330688,
+        1
+      ],
+      "min": [
+        -0.95499426126480103,
+        -0.99722456932067871,
+        -0.8923688530921936,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 85352,
+      "componentType": 5126,
+      "count": 344,
+      "max": [
+        0.87646502256393433,
+        1.9955899715423584
+      ],
+      "min": [
+        0.17736800014972687,
+        1.0048830509185791
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 204732,
+      "componentType": 5125,
+      "count": 945,
+      "max": [
+        343
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Taiga (https://sketchfab.com/KoonTaiga)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/f1c0d12f7e0849108e419f137fe92130",
+      "title": "Volcano Arco"
+    },
+    "generator": "Sketchfab-3.19.8",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 208512,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 88104,
+      "byteOffset": 208512,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 264312,
+      "byteOffset": 296616,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 176208,
+      "byteOffset": 560928,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 737136,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Model001_Material002__Acro_D_tga_diffuse.png"
+    },
+    {
+      "uri": "textures/Model001_Material002__Acro_D_tga_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Model001_Material001__Acro_D_tga_diffuse.png"
+    },
+    {
+      "uri": "textures/Model001_Material001__Acro_D_tga_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Model001_Material003__Acro_D_tga_diffuse.png"
+    },
+    {
+      "uri": "textures/Model001_Material003__Acro_D_tga_specularGlossiness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "glossinessFactor": 0.40000000000000002,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Model001_Material002__Acro_D_tga"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 2,
+            "texCoord": 0
+          },
+          "glossinessFactor": 0.40000000000000002,
+          "specularFactor": [
+            0.026105182899999999,
+            0.026105182899999999,
+            0.026105182899999999
+          ],
+          "specularGlossinessTexture": {
+            "index": 3,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Model001_Material001__Acro_D_tga"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 4,
+            "texCoord": 0
+          },
+          "glossinessFactor": 0.40000000000000002,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ],
+          "specularGlossinessTexture": {
+            "index": 5,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Model001_Material003__Acro_D_tga"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Model001_40_Acro_Right_1_0_0_Model001_Material002__Acro_D_tga_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Model001_40_Acro_Left_1_0_0_Model001_Material001__Acro_D_tga_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Model001_40_Acro_Default_1_0_0_Model001_Material003__Acro_D_tga_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Arco.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0.99999999999998668,
+        1.6292068494972794e-07,
+        0,
+        0,
+        -1.6292068494972794e-07,
+        0.99999999999998668,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Model001_40_Acro_Right_1_0_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Model001_40_Acro_Right_1_0_0_Model001_Material002__Acro_D_tga_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0.99999999999998668,
+        1.6292068494972794e-07,
+        0,
+        0,
+        -1.6292068494972794e-07,
+        0.99999999999998668,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Model001_40_Acro_Left_1_0_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Model001_40_Acro_Left_1_0_0_Model001_Material001__Acro_D_tga_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0.99999999999998668,
+        1.6292068494972794e-07,
+        0,
+        0,
+        -1.6292068494972794e-07,
+        0.99999999999998668,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Model001_40_Acro_Default_1_0_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Model001_40_Acro_Default_1_0_0_Model001_Material003__Acro_D_tga_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
+
