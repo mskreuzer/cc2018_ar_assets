@@ -257,6 +257,12 @@
             "uri" : "watertextblend.bin"
         }
     ], 
+    "materials" : [
+        {
+            "name" : "Material.003", 
+            "pbrMetallicRoughness" : {}
+        }
+    ], 
     "meshes" : [
         {
             "name" : "CUText", 
@@ -290,7 +296,8 @@
                         "NORMAL" : 8, 
                         "POSITION" : 7
                     }, 
-                    "indices" : 6
+                    "indices" : 6, 
+                    "material" : 0
                 }
             ]
         }
